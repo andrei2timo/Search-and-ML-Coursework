@@ -1,0 +1,9 @@
+﻿  Example_main.c
+C:\Users\suvit\Desktop\UWE\1st Year\Introduction to Artificial Intelligence\Semester 2\SearchAndMLCoursework\src\ExampleData.h(20,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SolutionListOperations.c
+C:\Users\suvit\Desktop\UWE\1st Year\Introduction to Artificial Intelligence\Semester 2\SearchAndMLCoursework\src\SolutionListOperations.c(32,8): warning C4101: 'c': unreferenced local variable
+  TrainAndTest.c
+C:\Users\suvit\Desktop\UWE\1st Year\Introduction to Artificial Intelligence\Semester 2\SearchAndMLCoursework\src\TrainAndTest.c(109,9): warning C4101: 'bestSoln': unreferenced local variable
+C:\Users\suvit\Desktop\UWE\1st Year\Introduction to Artificial Intelligence\Semester 2\SearchAndMLCoursework\src\TrainAndTest.c(111,10): warning C4101: 'newrule': unreferenced local variable
+  Generating Code...
+  SearchAndMLCoursework.vcxproj -> C:\Users\suvit\Desktop\UWE\1st Year\Introduction to Artificial Intelligence\Semester 2\SearchAndMLCoursework\Debug\SearchAndMLCoursework.exe
